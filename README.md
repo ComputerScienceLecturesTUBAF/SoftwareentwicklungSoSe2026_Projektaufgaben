@@ -4,12 +4,12 @@
 
 |             Datum | Bemerkung                                                                           |
 | -----------------:| ----------------------------------------------------------------------------------- |
-|     30. Juni 2025 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug und Frau Dr. Rudolf) |
-|                   | Anlegen eines Repositories und Erläuterung Ihrer __Zielstellungen im Wiki__         |                                                         
-|  bis 7. Juli 2025 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
+|     29. Juni 2026 | Anlegen eines Repositories und Erläuterung Ihrer __Zielstellungen im Wiki__         |
+|                   | Einladung von Prof. Zug und Herrn Göhler als Projektmitarbeiter                     |                                                         
+|  bis 6. Juli 2026 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
 |                   | Bestätigung der Idee und des Entwurfes                                              |
-|                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
-|     24. Juli 2025 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+|                   | Bearbeitung der Aufgabenstellung                                                    |
+|     30. Juli 2026 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
 
 ## Themenfelder
 
